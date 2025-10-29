@@ -59,13 +59,13 @@ This analysis was executed in two complementary stages:
 ## 🧮 Exploratory Data Analysis (EDA)
 
 The Python-based EDA notebook dives deep into Acme’s sales data from 2014–2018.  
-You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOUR_NOTEBOOK)
+You can explore the full analysis here ➡️ [View Python Notebook](https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/EDA%20and%20Performance%20Analysis%20.ipynb)
 
 ---
 
 ### 📅 Monthly Sales Trend Over Time
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Monthly Sales Trend" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/monthly%20sales%20trend%20over%20time.png" alt="Monthly Sales Trend" width="80%">
 </p>
 
 **Insights:**  
@@ -77,7 +77,7 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ### 💰 Top 10 Products by Revenue
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Top Products by Revenue" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/top%2010%20products%20by%20revenue.png" alt="Top Products by Revenue" width="80%">
 </p>
 
 **Insights:**  
@@ -89,7 +89,7 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ### 💸 Top 10 Products by Average Profit Margin
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Top Products by Profit Margin" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/top%2010%20products%20by%20average%20profit%20margin.png" alt="Top Products by Profit Margin" width="80%">
 </p>
 
 **Insights:**  
@@ -101,7 +101,7 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ### 🧾 Sales by Channel
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Sales by Channel" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/sales%20by%20channel.png" alt="Sales by Channel" width="80%">
 </p>
 
 **Insights:**  
@@ -113,7 +113,7 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ### 💳 Average Order Value (AOV) Distribution
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="AOV Distribution" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/AOV%20distribution.png" alt="AOV Distribution" width="80%">
 </p>
 
 **Insights:**  
@@ -125,7 +125,7 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ### 🗺️ Total Sales by U.S. Region
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Regional Sales" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/Total%20sales%20by%20US%20region.png" alt="Regional Sales" width="80%">
 </p>
 
 **Insights:**  
@@ -135,9 +135,9 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ---
 
-### 📍 Top 10 States by Revenue & Order Count
+### 📍 Top 10 States by Revenue and Order Count 
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Top States" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/top%20and%20bottom%2010%20customers%20by%20revenue.png" alt="Top States" width="80%">
 </p>
 
 **Insights:**  
@@ -149,7 +149,7 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ### 🧩 Revenue vs Profit Margin Correlation
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Revenue vs Profit Margin" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/revenue%20vs%20profit%20margin.png" alt="Revenue vs Profit Margin" width="80%">
 </p>
 
 **Insights:**  
@@ -161,7 +161,7 @@ You can explore the full analysis here ➡️ [View Python Notebook](PATH_TO_YOU
 
 ### 🔗 Correlation Heatmap
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Correlation Heatmap" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/insights/correlation%20matrix.png" alt="Correlation Heatmap" width="80%">
 </p>
 
 **Insights:**  
@@ -180,7 +180,7 @@ It consists of three interconnected pages designed for executives, product teams
 
 ### 1️⃣ Executive Overview & Trends
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Performance Summary Dashboard" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/Dashboard/Performance%20Summary%20.png" alt="Performance Summary Dashboard" width="80%">
 </p>
 
 **Highlights:**  
@@ -192,7 +192,7 @@ It consists of three interconnected pages designed for executives, product teams
 
 ### 2️⃣ Product & Channel Performance
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Revenue Scenarios Dashboard" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/Dashboard/Customer%20Segmentation%20.png" alt="Revenue Scenarios Dashboard" width="80%">
 </p>
 
 **Highlights:**  
@@ -204,7 +204,7 @@ It consists of three interconnected pages designed for executives, product teams
 
 ### 3️⃣ Geographic & Customer Insights
 <p align="center">
-  <img src="PATH_TO_IMAGE" alt="Customer Segmentation Dashboard" width="80%">
+  <img src="https://github.com/Manya-singh2001/Acme-Sales-Evaluation/blob/main/Dashboard/Revenue%20Scenarios%20.png" alt="Customer Segmentation Dashboard" width="80%">
 </p>
 
 **Highlights:**  
