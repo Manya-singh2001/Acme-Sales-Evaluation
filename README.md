@@ -243,6 +243,6 @@ It consists of three interconnected pages designed for executives, product teams
 **Manya Singh**  
 *Data Analyst | Business Intelligence | SQL | Power BI | Data Storytelling*  
 📍 India  
-🔗 [LinkedIn](YOUR_LINKEDIN_URL)  
+🔗 [LinkedIn](https://www.linkedin.com/in/manya-singh-a6406b253/)  
 📧 manyasinghsingh16699@gmail.com
 
